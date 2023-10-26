@@ -1,18 +1,16 @@
-# PokemonAPIApp
-
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Project 5 - Choose Your Own API
+# AND101 Project 6 - CYOAPI Part 2: RecyclerView Edition
 
-Submitted by: Gerardo Perez
+Submitted by: **Your Name Here**
 
-Time spent: 3 hours spent in total
+Time spent: **X** hours spent in total
 
 ## Summary
 
-InstantPoki is an android app that shows youy the4 image of a random pokemon with its name and ID
+**Name of your app** is an android app that **fill in description (Example: "An app that displays a scrollable list of characters from the Marvel API")**
 
-If I had to describe this project in three (3) emojis, they would be:🫡👌😮
+If I had to describe this project in three (3) emojis, they would be: **emojis here**
 
 ## Application Features
 
@@ -21,30 +19,26 @@ If I had to describe this project in three (3) emojis, they would be:🫡👌�
 The following REQUIRED features are completed:
 
 - [X] Make an API call to an API of your choice using AsyncHTTPClient
-- [X] Display at least three (3) pieces of data for each API entry retrieved
-- [X] A working Button requests a new API entry and updates the data displayed
+- [ ] Implement a RecyclerView to display a list of entries from the API
+- [ ] Display at least three (3) pieces of data for each RecyclerView item
 
 The following STRETCH features are implemented:
 
-- [ ] Add a query to the API request
-  - The query I added is **FILL IN HERE**
-- [ ] Build a UI to allow users to add that query
+- [ ] Add a UI element for the user to interact with API further
+- [ ] Show a `Toast` or `Snackbar` when an item is clicked
+- [ ] Add item dividers with `DividerItemDecoration`
 
 The following EXTRA features are implemented:
 
 - [ ] List anything else that you added to improve the app!
 
-## API Choice
-
-My chosen API for this project is PokeAPI.
-
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<a href="https://imgur.com/FVMx63i"><img src="https://i.imgur.com/FVMx63i.gif" title="source: imgur.com" /></a>
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with ScreenToGIF
+GIF created with ScreenToGif
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
@@ -57,7 +51,7 @@ Here's a place for any other notes on the app, it's creation process, or what yo
 
 ## License
 
-Copyright 2023 Gerardo Perez
+Copyright 2023 Gerardo
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
