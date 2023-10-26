@@ -2,7 +2,7 @@
 
 # AND101 Project 6 - CYOAPI Part 2: RecyclerView Edition
 
-Submitted by: **Your Name Here**
+Submitted by: Gerardo Perez
 
 Time spent: **X** hours spent in total
 
