@@ -4,7 +4,7 @@
 
 Submitted by: Gerardo Perez
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Summary
 
@@ -19,8 +19,8 @@ If I had to describe this project in three (3) emojis, they would be: **emojis h
 The following REQUIRED features are completed:
 
 - [X] Make an API call to an API of your choice using AsyncHTTPClient
-- [ ] Implement a RecyclerView to display a list of entries from the API
-- [ ] Display at least three (3) pieces of data for each RecyclerView item
+- [X] Implement a RecyclerView to display a list of entries from the API
+- [X] Display at least three (3) pieces of data for each RecyclerView item
 
 The following STRETCH features are implemented:
 
@@ -36,7 +36,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<a href="https://imgur.com/wM84l4B"><img src="https://i.imgur.com/wM84l4B.gif" title="source: imgur.com" /></a>
 
 GIF created with ScreenToGif
 
