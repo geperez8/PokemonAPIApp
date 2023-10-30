@@ -2,7 +2,7 @@
 
 # AND101 Project 7 - CYOAPI Part 3: Beautified
 
-Submitted by: **Your Name Here**
+Submitted by: Gerardo Perez
 
 Time spent: 2 hours spent in total
 
