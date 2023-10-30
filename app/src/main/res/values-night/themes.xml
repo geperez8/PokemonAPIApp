@@ -2,6 +2,8 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.AND101Week5" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+         <item name="colorPrimary">@color/beeyellow</item>
+         <item name="colorSecondary">@color/grassgreen</item>
+        <item name="android:textSize">45dp</item>
     </style>
 </resources>

@@ -3,6 +3,10 @@
     <style name="Base.Theme.AND101Week5" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/babyblue</item>
+        <item name="colorSecondary">@color/candyred</item>
+        <item name="android:textSize">25dp</item>
+
     </style>
 
     <style name="Theme.AND101Week5" parent="Base.Theme.AND101Week5" />

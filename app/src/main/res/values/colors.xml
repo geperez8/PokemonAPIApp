@@ -3,5 +3,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="babyblue">#2183c4</color>
-    <color name="candyred">#c92440</color>
+    <color name="candyred">#D51037</color>
+    <color name="beeyellow">#C29A0F</color>
+    <color name="grassgreen">#219723</color>
 </resources>
