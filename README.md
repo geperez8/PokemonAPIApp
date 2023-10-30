@@ -8,9 +8,9 @@ Time spent: 2 hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that **fill in description (Example: "An app that displays a scrollable list of characters from the Marvel API")**
+PokeApi is an android app that gets you the name and pokedex id of a set of pokemon
 
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+If I had to describe this project in three (3) emojis, they would be: 😄😮😶‍🌫️
 
 ## Application Features
 
